@@ -14,5 +14,6 @@ For Full understanding of CI and CD
 
 just on browser 
 Public_IPADDRESS_EC2:8080 (check at sg(security_group) level in aws for instance 8080 enabled)
-password :: find at /var/lib/jenkins/secrets/initialAdminPassword
-Username:: admin
+*Password* :: find at /var/lib/jenkins/secrets/initialAdminPassword
+*Username*  :: admin
+
