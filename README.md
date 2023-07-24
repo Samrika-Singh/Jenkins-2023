@@ -42,6 +42,11 @@ JAVA_HOME=/usr/lib/jvm/java-11-openjdk-11.0.19.0.7-1.amzn2.0.1.x86_64
 
 NOTE: This *JAVA_HOME* and *M2_HOME* need to pass in Jenkins UI also 
 
+## Pictorial View GITHUB + JENKINS + MVN INTEGRATION
+<img width="576" alt="Jenkins_mvn_integration" src="https://github.com/Samrika-Singh/Jenkins-2023/assets/67017620/2942c83f-855d-47bd-92aa-2590a54ab4d1">
+
+
+
 
 
 
